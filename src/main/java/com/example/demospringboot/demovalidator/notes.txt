@@ -1,0 +1,4 @@
+tutorial: https://reflectoring.io/bean-validation-with-spring-boot/
+
+to implement custom validator (see inner package democustomvalidator),
+we create a custom annotation 'IpAddress' and custom validator 'IpAddressValidator'
